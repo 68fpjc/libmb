@@ -1,0 +1,12 @@
+.vscode/
+*.x
+*.o
+*.elf*
+*.d
+dist/
+
+*.a
+*.tar.gz
+*.c
+!mbsdec.c
+!test/*.c
